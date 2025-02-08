@@ -1,0 +1,39 @@
+    
+ [   
+    {
+    "id": 1,
+    "nombre_ruta": "Ruta NodeJS",
+    "modulos": [
+      "Fundamentos de programación",
+      "Programación Web",
+      "Programación formal",
+      "Bases de datos",
+      "Backend"
+    ],
+    "capacidad": 33
+  },  
+  {
+  "id":2,
+  "nombre_ruta": "",
+  "modulos": [
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "capacidad": 33
+},
+{
+    "id":3,
+    "nombre_ruta": "",
+    "modulos": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "capacidad": 33
+  }
+]

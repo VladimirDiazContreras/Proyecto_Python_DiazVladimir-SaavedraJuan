@@ -1,9 +1,116 @@
-{
-    "trainers":[
-        {"nombre":"",
-        "":""
-
+[
+    {
+        "trainers": [
+        {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00 "
+                }
+            }
+        ]
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
         }
-
-    ]
-}
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00- 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    },
+    {
+            "numIden": "",
+            "Nombres": "",
+            "Apellidos": "",
+            "Contacto": "",
+            "Horario": {
+            "Grupo": "",
+            "Area_Entrenamiento": "",
+            "Time": "06:00 - 10:00"
+        }
+    }
+]
