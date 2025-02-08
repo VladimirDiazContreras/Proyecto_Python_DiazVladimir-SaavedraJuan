@@ -1,0 +1,95 @@
+[
+    {
+      "camper": [
+        {
+          "numIden": "123456789",
+          "nombre": "Juan",
+          "apellidos": "Pérez Gómez",
+          "Dirección": "Calle 123 #45-67",
+          "Acudiente": "María Gómez",
+          "Teléfono_Movil: ": "3001234567",
+          "Teléfono_fijo: ": "601234567",
+          "estado": "Activo",
+          "riesgo": "Bajo"
+        },
+        {
+          "numIden": "987654321",
+          "nombre": "Ana",
+          "apellidos": "López Ramírez",
+          "Dirección": "Carrera 89 #12-34",
+          "Acudiente": "Carlos Ramírez",
+          "Teléfono_Movil: ": "3109876543",
+          "Teléfono_fijo: ": "609876543",
+          "estado": "Activo",
+          "riesgo": "Medio"
+        },
+        {
+          "numIden": "112233445",
+          "nombre": "Pedro",
+          "apellidos": "Martínez Díaz",
+          "Dirección": "Avenida 56 #78-90",
+          "Acudiente": "Luis Díaz",
+          "Teléfono_Movil: ": "3201122334",
+          "Teléfono_fijo: ": "608765432",
+          "estado": "Inactivo",
+          "riesgo": "Alto"
+        },
+        {
+          "numIden": "223344556",
+          "nombre": "Laura",
+          "apellidos": "González Fernández",
+          "Dirección": "Calle 45 #67-89",
+          "Acudiente": "Carmen Fernández",
+          "Teléfono_Movil: ": "3002233445",
+          "Teléfono_fijo: ": "601122334",
+          "estado": "Activo",
+          "riesgo": "Bajo"
+        },
+        {
+          "numIden": "334455667",
+          "nombre": "Miguel",
+          "apellidos": "Rodríguez Herrera",
+          "Dirección": "Carrera 32 #45-67",
+          "Acudiente": "José Herrera",
+          "Teléfono_Movil: ": "3103344556",
+          "Teléfono_fijo: ": "602233445",
+          "estado": "Activo",
+          "riesgo": "Medio"
+        },
+        {
+          "numIden": "445566778",
+          "nombre": "Carolina",
+          "apellidos": "Suárez Ortega",
+          "Dirección": "Avenida 100 #10-20",
+          "Acudiente": "Marta Ortega",
+          "Teléfono_Movil: ": "3154455667",
+          "Teléfono_fijo: ": "603344556",
+          "estado": "Activo",
+          "riesgo": "Bajo"
+        },
+        {
+          "numIden": "556677889",
+          "nombre": "Andrés",
+          "apellidos": "Villalobos Pérez",
+          "Dirección": "Calle 78 #23-45",
+          "Acudiente": "Fernando Pérez",
+          "Teléfono_Movil: ": "3165566778",
+          "Teléfono_fijo: ": "604556677",
+          "estado": "Activo",
+          "riesgo": "Alto"
+        },
+        {
+          "numIden": "667788990",
+          "nombre": "Sofía",
+          "apellidos": "Mejía Ríos",
+          "Dirección": "Carrera 56 #34-21",
+          "Acudiente": "Elena Ríos",
+          "Teléfono_Movil: ": "3186677889",
+          "Teléfono_fijo: ": "605667788",
+          "estado": "Activo",
+          "riesgo": "Bajo"
+        }
+      ]
+    }
+  ]
+  
