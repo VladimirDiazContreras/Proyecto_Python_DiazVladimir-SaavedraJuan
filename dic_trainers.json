@@ -1,116 +1,59 @@
-[
-    {
-        "trainers": [
+{
+    "trainers": [
         {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
+            "numIden": "g",
+            "Nombres": "yu",
+            "Apellidos": "lh",
+            "Contacto": "77777",
             "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00 "
-                }
+                "Grupo": "666",
+                "Area_Entrenamiento": "rt2",
+                "Time": "5"
             }
-        ]
-    },
-    {
-            "numIden": "",
+        },
+        {
+            "numIden": "f",
             "Nombres": "",
             "Apellidos": "",
             "Contacto": "",
             "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
+                "Grupo": "",
+                "Area_Entrenamiento": "",
+                "Time": "06:00 - 10:00"
+            }
+        },
+        {
+            "numIden": "d",
             "Nombres": "",
             "Apellidos": "",
             "Contacto": "",
             "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
+                "Grupo": "",
+                "Area_Entrenamiento": "",
+                "Time": "06:00 - 10:00"
+            }
+        },
+        {
+            "numIden": "k",
             "Nombres": "",
             "Apellidos": "",
             "Contacto": "",
             "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00- 10:00"
-        }
-    },
-    {
-            "numIden": "",
+                "Grupo": "",
+                "Area_Entrenamiento": "",
+                "Time": "06:00- 10:00"
+            }
+        },
+        {
+            "numIden": "l",
             "Nombres": "",
             "Apellidos": "",
             "Contacto": "",
             "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
+                "Grupo": "",
+                "Area_Entrenamiento": "",
+                "Time": "06:00 - 10:00"
+            }
         }
-    },
-    {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
-            "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
-            "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
-            "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
-            "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    },
-    {
-            "numIden": "",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
-            "Horario": {
-            "Grupo": "",
-            "Area_Entrenamiento": "",
-            "Time": "06:00 - 10:00"
-        }
-    }
-]
+    ]
+}

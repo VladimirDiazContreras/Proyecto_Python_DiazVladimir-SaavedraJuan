@@ -20,12 +20,10 @@ print ("1. Trainers \t2. Camper \t3.Coordinador ")
 opt=(int(input(":")))
 if opt==1 :
     print ("")
-if opt==2:
-    optc=int(input("que desea hacer como camper"))
-    print("1. inscribirse al campus")
-    print("2. ver estado de perfil ")
-    if optc==1 :
-        nombre=input("/digita tu nombre")
+if opt==2 :
+    print
+
+
         
 
 
