@@ -14,26 +14,26 @@
   },  
   {
   "id":2,
-  "nombre_ruta": "",
+  "nombre_ruta": "NodeJS",
   "modulos": [
-    "",
-    "",
-    "",
-    "",
-    ""
+    "Intro",
+    "Python",
+    "MongoDB",
+    "JavaScript",
+    "Express"
   ],
   "capacidad": 33
 },
 {
     "id":3,
-    "nombre_ruta": "",
+    "nombre_ruta": ".NET",
     "modulos": [
-      "",
-      "",
-      "",
-      "",
-      ""
-    ],
+      "Intro",
+      "Python",
+      "MySQL",
+      "C#",
+      "PostgreSQL"
+    ],  
     "capacidad": 33
   }
 ]

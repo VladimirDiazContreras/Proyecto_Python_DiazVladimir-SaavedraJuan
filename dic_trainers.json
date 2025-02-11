@@ -55,5 +55,10 @@
                 "Time": "06:00 - 10:00"
             }
         }
+    ],
+    "coor":[
+        {"nombre_coor":"pendejin",
+        "contreseña":"1234",
+        "Contacto":"3155916726" }
     ]
 }

@@ -2,13 +2,13 @@
     "s1": {
         "camper": [
             {
-                "numIden": "123456789",
+                "numIden": "1",
                 "nombre": "Juan",
                 "apellidos": "Perez Gomez",
                 "Direccion": "Calle 123 #45-67",
                 "Acudiente": "Maria Gomez",
-                "Telefono_Movil: ": "3001234567",
-                "Telefono_fijo: ": "601234567",
+                "Telefono_Movil": "3001234567",
+                "Telefono_fijo": "601234567",
                 "estado": "Desactivado",
                 "riesgo": "Altisimo"
             },
@@ -18,8 +18,8 @@
                 "apellidos": "Lopez Ramirez",
                 "Direccion": "Carrera 89 #12-34",
                 "Acudiente": "Carlos Ramirez",
-                "Telefono_Movil: ": "3109876543",
-                "Telefono_fijo: ": "609876543",
+                "Telefono_Movil": "3109876543",
+                "Telefono_fijo": "601234567",
                 "estado": "Activo",
                 "riesgo": "Medio"
             },
@@ -29,8 +29,8 @@
                 "apellidos": "Martinez Diaz",
                 "Direccion": "Avenida 56 #78-90",
                 "Acudiente": "Luis Diaz",
-                "Telefono_Movil: ": "3201122334",
-                "Telefono_fijo: ": "608765432",
+                "Telefono_Movil": "3201122334",
+                "Telefono_fijo": "608765432",
                 "estado": "Inactivo",
                 "riesgo": "Alto"
             },
@@ -40,8 +40,8 @@
                 "apellidos": "Gonzalez Fernandez",
                 "Direccion": "Calle 45 #67-89",
                 "Acudiente": "Carmen Fernandez",
-                "Telefono_Movil: ": "3002233445",
-                "Telefono_fijo: ": "601122334",
+                "Telefono_Movil": "3002233445",
+                "Telefono_fijo": "601122334",
                 "estado": "Activo",
                 "riesgo": "Bajo"
             },
@@ -51,8 +51,8 @@
                 "apellidos": "Rodriguez Herrera",
                 "Direccion": "Carrera 32 #45-67",
                 "Acudiente": "Jose Herrera",
-                "Telefono_Movil: ": "3103344556",
-                "Telefono_fijo: ": "602233445",
+                "Telefono_Movil": "3103344556",
+                "Telefono_fijo": "602233445",
                 "estado": "Activo",
                 "riesgo": "Medio"
             },
@@ -62,8 +62,8 @@
                 "apellidos": "Suarez Ortega",
                 "Direccion": "Avenida 100 #10-20",
                 "Acudiente": "Marta Ortega",
-                "Telefono_Movil: ": "3154455667",
-                "Telefono_fijo: ": "603344556",
+                "Telefono_Movil": "3154455667",
+                "Telefono_fijo": "603344556",
                 "estado": "Activo",
                 "riesgo": "Bajo"
             },
@@ -73,8 +73,8 @@
                 "apellidos": "Villalobos Perez",
                 "Direccion": "Calle 78 #23-45",
                 "Acudiente": "Fernando Perez",
-                "Telefono_Movil: ": "3165566778",
-                "Telefono_fijo: ": "604556677",
+                "Telefono_Movil": "3165566778",
+                "Telefono_fijo": "604556677",
                 "estado": "Activo",
                 "riesgo": "Alto"
             },
@@ -84,8 +84,8 @@
                 "apellidos": "Mejia Rios",
                 "Direccion": "Carrera 56 #34-21",
                 "Acudiente": "Elena Rios",
-                "Telefono_Movil: ": "3186677889",
-                "Telefono_fijo: ": "605667788",
+                "Telefono_Movil": "3186677889",
+                "Telefono_fijo": "605667788",
                 "estado": "Activo",
                 "riesgo": "Bajo"
             }
