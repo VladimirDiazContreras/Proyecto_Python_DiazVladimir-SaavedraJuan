@@ -1,64 +1,66 @@
 {
     "trainers": [
         {
-            "numIden": "g",
-            "Nombres": "yu",
-            "Apellidos": "lh",
-            "Contacto": "77777",
+            "numIden": "123456789",
+            "Nombres": "Pedro",
+            "Apellidos": "Gutierrez Tabasco",
+            "Contacto": "3136378243",
             "Horario": {
-                "Grupo": "666",
-                "Area_Entrenamiento": "rt2",
-                "Time": "5"
+                "Grupo": "s1",
+                "Area_Entrenamiento": "Artemis",
+                "Time": "6:00 AM - 9:00 AM"
             }
         },
         {
-            "numIden": "f",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
+            "numIden": "1097097811",
+            "Nombres": "Naya Zarela",
+            "Apellidos": "Lizcano Jaimes",
+            "Contacto": "3207374808",
             "Horario": {
-                "Grupo": "",
-                "Area_Entrenamiento": "",
-                "Time": "06:00 - 10:00"
+                "Grupo": "s1",
+                "Area_Entrenamiento": "Apolo",
+                "Time": "02:00 PM - 10:00 PM"
             }
         },
         {
-            "numIden": "d",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
+            "numIden": "1097498480",
+            "Nombres": "Aura Camila",
+            "Apellidos": "Pico Araque",
+            "Contacto": "3173210929",
             "Horario": {
-                "Grupo": "",
-                "Area_Entrenamiento": "",
-                "Time": "06:00 - 10:00"
+                "Grupo": "s1",
+                "Area_Entrenamiento": "Artemis",
+                "Time": "02:00 PM - 6:00 PM"
             }
         },
         {
-            "numIden": "k",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
+            "numIden": "109530785",
+            "Nombres": "Santiago",
+            "Apellidos": "Jaimes Contreras",
+            "Contacto": "31631755320",
             "Horario": {
-                "Grupo": "",
-                "Area_Entrenamiento": "",
-                "Time": "06:00- 10:00"
+                "Grupo": "M1",
+                "Area_Entrenamiento": "Sputnik",
+                "Time": "06:00 AM- 9"
             }
         },
         {
-            "numIden": "l",
-            "Nombres": "",
-            "Apellidos": "",
-            "Contacto": "",
+            "numIden": "1049291388",
+            "Nombres": "Daniel",
+            "Apellidos": "Gomez Saavedra",
+            "Contacto": "3173760920",
             "Horario": {
-                "Grupo": "",
-                "Area_Entrenamiento": "",
+                "Grupo": "M1",
+                "Area_Entrenamiento": "Apolo",
                 "Time": "06:00 - 10:00"
             }
         }
     ],
-    "coor":[
-        {"nombre_coor":"pendejin",
-        "contreseña":"1234",
-        "Contacto":"3155916726" }
+    "coor": [
+        {
+            "nombre_coor": "Karen",
+            "contrese\u00f1a": "1234",
+            "Contacto": "3155916726"
+        }
     ]
 }

@@ -1,5 +1,5 @@
 import json
-
+import modulo_campers
 def abrirTrainersJSON():
     dicFinal = {}
     with open(f"./dic_trainers.json", 'r') as newFile:
@@ -27,7 +27,9 @@ def mostrar_menu_trainers():
     print("1. Ver todos los trainers")
     print("2. Modificar mis datos ")
     print("3. Ver lista de todos los campers")
-    print("4. Salir")
+    print("4. Poner notas")
+    print("5. Salir")
+    print("-" * 20)
 
 
 
@@ -45,7 +47,7 @@ def modificar_entrenador():
             trainersnv["trainers"][i]["Horario"]["Grupo"]=input("ingresea el nuevo grupo:")
             trainersnv["trainers"][i]["Horario"]["Grupo"]=input("ingresea la nueva area de entrenamiento ")
             trainersnv["trainers"][i]["Horario"]["Grupo"]=input("ingresea el nuevo el horario ")
-
+            print("-" * 20)
             guardarTrainersJSON(trainersnv)
     
 
@@ -60,7 +62,7 @@ def ver_campers():
         print (f'telefono fijo: {campernv["s1"]["camper"][i]["Telefono_fijo"]}')
         print (f'estado: {campernv["s1"]["camper"][i]["estado"]}')
         print (f'riesgo-: {campernv["s1"]["camper"][i]["riesgo"]}')
-        print()
+        print("-" * 20)
 
 def ver_trainers():
     for i in range(len((trainersnv["trainers"]))):
@@ -71,20 +73,23 @@ def ver_trainers():
         print (f'grupo: {trainersnv["trainers"][i]["Horario"]["Grupo"]}')
         print (f'area de entrenamiento : {trainersnv["trainers"][i]["Horario"]["Area_Entrenamiento"]}')
         print (f'time: {trainersnv["trainers"][i]["Horario"]["Time"]}')
-        print()
-        
-        
+        print("-" * 20)
         
 
 
     
-def main():
+    
+        
+
+
+    
+def main_trainer():
     data = abrirTrainersJSON()
     numIdent = input("Ingrese su número de identificación para iniciar sesión: ")
-    # Buscar al entrenador actual
     for i in range (len(data["trainers"])):
         if numIdent==(data["trainers"][i]["numIden"]):
             print(f"\nBienvenido, {data['trainers'][i]['Nombres']} {data['trainers'][i]['Apellidos']}!")
+            print("-" * 20)
             while True:
                 mostrar_menu_trainers()
                 opcion = input("Seleccione una opción: ")
@@ -94,14 +99,15 @@ def main():
                 elif opcion == "2":
                     modificar_entrenador()
                 elif opcion == "3":
-                    campers_data = abrirCampersJSON()
+                    
                     ver_campers()
-                elif opcion == "4":
+                elif opcion == "5":
                     print("Saliendo del progama.")
                     break
+                elif opcion=="4":
+                    modulo_campers.notas()
                 else:
                     print("Opción no válida. Intente de nuevo.")
     else:
         print("Entrenador no encontrado. Saliendo del programa...")
 
-main()
