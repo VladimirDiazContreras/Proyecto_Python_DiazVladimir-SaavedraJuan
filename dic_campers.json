@@ -10,7 +10,12 @@
                 "Telefono_Movil": "3001234567",
                 "Telefono_fijo": "601234567",
                 "estado": "Desactivado",
-                "riesgo": "Altisimo"
+                "riesgo": "medio",
+                "np": 70,
+                "nf": 70,
+                "not": 70,
+                "nota_final": 70.0,
+                "ruta": "1"
             },
             {
                 "numIden": "987654321",
@@ -19,9 +24,14 @@
                 "Direccion": "Carrera 89 #12-34",
                 "Acudiente": "Carlos Ramirez",
                 "Telefono_Movil": "3109876543",
-                "Telefono_fijo": "601234567",
+                "Telefono_fijo": "601234562",
                 "estado": "Activo",
-                "riesgo": "Medio"
+                "riesgo": "Medio",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "112233445",
@@ -32,7 +42,12 @@
                 "Telefono_Movil": "3201122334",
                 "Telefono_fijo": "608765432",
                 "estado": "Inactivo",
-                "riesgo": "Alto"
+                "riesgo": "Alto",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "223344556",
@@ -43,7 +58,12 @@
                 "Telefono_Movil": "3002233445",
                 "Telefono_fijo": "601122334",
                 "estado": "Activo",
-                "riesgo": "Bajo"
+                "riesgo": "Bajo",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "334455667",
@@ -54,7 +74,12 @@
                 "Telefono_Movil": "3103344556",
                 "Telefono_fijo": "602233445",
                 "estado": "Activo",
-                "riesgo": "Medio"
+                "riesgo": "Medio",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "445566778",
@@ -65,7 +90,12 @@
                 "Telefono_Movil": "3154455667",
                 "Telefono_fijo": "603344556",
                 "estado": "Activo",
-                "riesgo": "Bajo"
+                "riesgo": "Bajo",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "556677889",
@@ -76,7 +106,12 @@
                 "Telefono_Movil": "3165566778",
                 "Telefono_fijo": "604556677",
                 "estado": "Activo",
-                "riesgo": "Alto"
+                "riesgo": "Alto",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             },
             {
                 "numIden": "667788990",
@@ -87,7 +122,12 @@
                 "Telefono_Movil": "3186677889",
                 "Telefono_fijo": "605667788",
                 "estado": "Activo",
-                "riesgo": "Bajo"
+                "riesgo": "Bajo",
+                "np": "",
+                "nf": "",
+                "not": "",
+                "nota_final": "",
+                "ruta": ""
             }
         ]
     }

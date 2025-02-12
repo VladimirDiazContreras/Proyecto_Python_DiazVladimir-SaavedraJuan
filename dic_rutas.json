@@ -1,14 +1,15 @@
     
- [   
+{ 
+  "rutas":[  
     {
     "id": 1,
     "nombre_ruta": "Ruta NodeJS",
     "modulos": [
-      "Fundamentos de programación",
-      "Programación Web",
-      "Programación formal",
-      "Bases de datos",
-      "Backend"
+      "Intro",
+      "Python",
+      "HTML/CSS",
+      "Scrum",
+      "Git"
     ],
     "capacidad": 33
   },  
@@ -20,7 +21,7 @@
     "Python",
     "MongoDB",
     "JavaScript",
-    "Express"
+    "Express" 
   ],
   "capacidad": 33
 },
@@ -36,4 +37,5 @@
     ],  
     "capacidad": 33
   }
-]
+  ]
+}
