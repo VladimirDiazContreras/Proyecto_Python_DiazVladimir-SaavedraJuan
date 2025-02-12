@@ -15,7 +15,7 @@
                 "nf": 70,
                 "not": 70,
                 "nota_final": 70.0,
-                "ruta": "1"
+                "ruta": "Java"
             },
             {
                 "numIden": "987654321",
@@ -31,7 +31,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": "NodeJS"
             },
             {
                 "numIden": "112233445",
@@ -47,7 +47,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": ".NET"
             },
             {
                 "numIden": "223344556",
@@ -63,7 +63,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": "Java"
             },
             {
                 "numIden": "334455667",
@@ -79,7 +79,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": "NodeJS"
             },
             {
                 "numIden": "445566778",
@@ -95,7 +95,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": ".NET"
             },
             {
                 "numIden": "556677889",
@@ -111,7 +111,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": "NodeJS"
             },
             {
                 "numIden": "667788990",
@@ -127,7 +127,7 @@
                 "nf": "",
                 "not": "",
                 "nota_final": "",
-                "ruta": ""
+                "ruta": "Java"
             }
         ]
     }
