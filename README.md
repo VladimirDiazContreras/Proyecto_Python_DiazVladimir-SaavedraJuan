@@ -5,6 +5,8 @@ VIDEO SUSTENTACION PROYECTO Diaz Vladimir - Saavedra Juan
 https://www.loom.com/share/e0dd1d4e91614549997cc8137273000d?sid=70da90f3-a20a-4ed9-8a94-d706258f21cc
 
 
+
+# fallo del proyecto 
 este git del proyecto  
 
 ## Tabla de contenidos
@@ -29,3 +31,6 @@ python3 main.py
 
 ### explicación  
 ejecutamos main.py por que en este archivo estamos importando todas las funciones de los demás archivos  
+
+
+Hecho por [Vladimir Diaz Contreras](https://github.com/VladimirDiazContreras)  y juan saavedra
