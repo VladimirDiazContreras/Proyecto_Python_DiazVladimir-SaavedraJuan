@@ -7,7 +7,7 @@ https://www.loom.com/share/e0dd1d4e91614549997cc8137273000d?sid=70da90f3-a20a-4e
 
 
 # Proyecto de Python 
-este git del proyecto  
+este git del proyecto  de la skiil de python, este proyeto se basa en una base de datos para camuslands
 
 ## Tabla de contenidos
 | Indice | Titulo  |
