@@ -6,7 +6,7 @@ https://www.loom.com/share/e0dd1d4e91614549997cc8137273000d?sid=70da90f3-a20a-4e
 
 
 
-# fallo del proyecto 
+# Proyecto de Python 
 este git del proyecto  
 
 ## Tabla de contenidos
